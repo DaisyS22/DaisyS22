@@ -53,8 +53,7 @@
 
 <p align="center">
 <a href="https://rogelio-umbay-portfolio-petron.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-rogelio--umbay--portfolio--petron.netlify.app-blue"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/rogelio-umbay/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rogelio%20Umbay-blue"></a>
+<a href="rogelioumbay.ru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rogelioumbay.ru-blue"></a>
 </p>
 
