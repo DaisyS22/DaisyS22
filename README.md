@@ -43,8 +43,7 @@
 
 <a href="https://github.com/DaisyS22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaisyS22&theme=buefy&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyS22)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 
 <br/>
 
