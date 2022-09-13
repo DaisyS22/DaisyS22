@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Graduated in Bachelor of Science in Computer Science at Technological Institute of the Philippines.
 - 💼 &nbsp; Trained as a Web Developer at Sparkle Star International.
 - 🌱 &nbsp; Learning more about SAP system and ABAP.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design and Japanese translator as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
